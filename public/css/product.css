@@ -1,0 +1,37 @@
+.uul li{
+    list-style-type: none;
+    border-bottom: 1px solid black;
+  }
+  .uul a{
+    color: #797979;
+  }
+  .uul li i{
+    color: #000000;
+  }
+  .uul a:hover{
+    color: white;
+    text-decoration: underline;
+  }
+  .cat{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color:  #797979;
+    text-align: center;
+  }
+  ul li{
+    list-style-type: none;
+  }
+  .category li a{
+    text-decoration: none;
+    color: white;
+  }
+  .category li a:hover{
+    text-decoration: underline;
+    color: #797979;
+  }
+  .category li i{
+    color: white;
+  }
+  .hh{
+    color: white;
+  }

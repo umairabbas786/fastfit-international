@@ -1,0 +1,21 @@
+.uul li{
+    list-style-type: none;
+    border-bottom: 1px solid black;
+  }
+  .uul a{
+    color: #797979;
+  }
+  .uul li i{
+    color: #000000;
+  }
+  .uul a:hover{
+    color: white;
+    text-decoration: underline;
+  }
+    .cf{
+      background: linear-gradient(rgba(11, 66, 110, 0.568), rgb(4, 50, 110));
+      color: #ffffff;
+  }
+  .container i{
+    color: black;
+  }

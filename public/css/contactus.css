@@ -1,0 +1,22 @@
+.uul li{
+  list-style-type: none;
+  border-bottom: 1px solid black;
+}
+
+.uul a{
+  color: #797979;
+}
+
+.uul li i{
+  color: #000000;
+}
+
+.uul a:hover{
+  color: white;
+  text-decoration: underline;
+}
+
+.ff{
+  font-size: 28px;
+  border-radius: 3px;
+}
